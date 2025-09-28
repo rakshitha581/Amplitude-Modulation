@@ -91,7 +91,7 @@ plot(t,c);
 s=(Ac+m).* cos(2*3.14*fc*t);
 subplot(3,1,3);
 plot(t,s);
-
+```
 Output Waveform
 
 <img width="1920" height="1200" alt="Screenshot 2025-08-06 211750" src="https://github.com/user-attachments/assets/b70de96b-3972-438e-9ada-4b6a9504ca54" />
